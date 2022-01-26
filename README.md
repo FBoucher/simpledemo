@@ -1,3 +1,5 @@
 # simpledemo
 
-THis event will be fantastic
+## More information to comming up soon!
+
+This event will be fantastic
